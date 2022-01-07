@@ -1,0 +1,12 @@
+{
+    "name": "deploy/deploy",
+    "authors": [
+        {
+            "name": "Francisco Carribero",
+            "email": "francisco.carribero@webneex.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

@@ -1,0 +1,4 @@
+deploy_script.php
+.env
+composer.phar
+vendor
