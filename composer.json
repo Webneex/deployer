@@ -1,5 +1,5 @@
 {
-    "name": "deploy/deploy",
+    "name": "webneex/deployer",
     "authors": [
         {
             "name": "Francisco Carribero",
